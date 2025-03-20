@@ -1,7 +1,7 @@
 # T20 Score Predictor: Precision Forecasting with Monte Carlo Simulation
 Role: Sole Developer | Tools: Python (NumPy), Google Sheets, Apps Script | Date: March 2025
 
-https://thejuniorage.com/wp-content/uploads/2023/05/TJA-Featured-Image-1.jpg
+    https://thejuniorage.com/wp-content/uploads/2023/05/TJA-Featured-Image-1.jpg
 
 
 # Overview
