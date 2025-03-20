@@ -29,12 +29,19 @@ Cricket’s T20 format is a whirlwind of unpredictability—strike rates spike, 
   
   User Experience: Delivered an intuitive interface—input data, click a button, get predictions—accessible to non-technical users.
 
+# Impact
+
+  Outperformed a leading cricket analytics platform in a live scenario, showcasing real-world applicability.
+  Transformed a complex statistical concept into a practical tool, bridging data science and sports analytics.
+
+Links
+
+   Live Demo (https://docs.google.com/spreadsheets/d/1OeqveijZJOnEypWVt8KfaVKycJhYmFHHPcj57v2vuEQ/edit?gid=0#gid=0)
 
 
+# Key Takeaway
 
-
-
-
+This project isn’t just about cricket—it’s a testament to my ability to tackle uncertainty with data, innovate under constraints, and deliver results that resonate. From concept to execution, it’s a slam dunk of technical skill and creative flair.
 
 
   
