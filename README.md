@@ -34,7 +34,7 @@ Cricket’s T20 format is a whirlwind of unpredictability—strike rates spike, 
   Outperformed a leading cricket analytics platform in a live scenario, showcasing real-world applicability.
   Transformed a complex statistical concept into a practical tool, bridging data science and sports analytics.
 
-Links
+# Links
 
    Live Demo (https://docs.google.com/spreadsheets/d/1OeqveijZJOnEypWVt8KfaVKycJhYmFHHPcj57v2vuEQ/edit?gid=0#gid=0)
 
