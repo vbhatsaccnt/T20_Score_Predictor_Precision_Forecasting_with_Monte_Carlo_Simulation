@@ -37,7 +37,6 @@ Cricket’s T20 format is a whirlwind of unpredictability—strike rates spike, 
 # Links
 
    Live Demo (https://docs.google.com/spreadsheets/d/1OeqveijZJOnEypWVt8KfaVKycJhYmFHHPcj57v2vuEQ/edit?gid=0#gid=0)
-    Apps Script code file : https://script.google.com/u/0/home/projects/1kwCoa0mxAoTPvCrKen39HtW3EMOoEv3jk1BoQeWAOepdtSs4sRmvrhRn/edit
 
 # Key Takeaway
 
