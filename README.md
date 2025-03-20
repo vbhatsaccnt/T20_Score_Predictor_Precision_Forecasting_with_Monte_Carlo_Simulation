@@ -1,9 +1,6 @@
 # T20 Score Predictor: Precision Forecasting with Monte Carlo Simulation
 Role: Sole Developer | Tools: Python (NumPy), Google Sheets, Apps Script | Date: March 2025
 
-    https://thejuniorage.com/wp-content/uploads/2023/05/TJA-Featured-Image-1.jpg
-
-
 # Overview
 
 Cricket’s T20 format is a whirlwind of unpredictability—strike rates spike, wickets fall, and scores defy expectation. I engineered the T20 Score Predictor, a Monte Carlo-based tool that harnesses real-time match data to forecast final scores with striking accuracy. In a real IPL test, it predicted 213 runs against an actual 214 (and nailed 170 at Over 16), outpacing ESPNcricinfo’s 226 by a wide margin. This project showcases my ability to blend probabilistic modeling, innovative metrics, and user-centric design into a practical solution.
@@ -40,7 +37,7 @@ Cricket’s T20 format is a whirlwind of unpredictability—strike rates spike, 
 # Links
 
    Live Demo (https://docs.google.com/spreadsheets/d/1OeqveijZJOnEypWVt8KfaVKycJhYmFHHPcj57v2vuEQ/edit?gid=0#gid=0)
-
+    Apps Script code file : https://script.google.com/u/0/home/projects/1kwCoa0mxAoTPvCrKen39HtW3EMOoEv3jk1BoQeWAOepdtSs4sRmvrhRn/edit
 
 # Key Takeaway
 
